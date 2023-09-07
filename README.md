@@ -28,6 +28,9 @@ NOTE: this repo will be moved to the USGS code website, once Anna finishes setti
 ## CONTACT
 For more information about this code, or if you have any queries or advices, please do not hesitate to contact me (or Gary/Anna/Naser). 
 
+DONG Hao, 
+China University of Geosciences, Beijing
+
 Email: donghao@cugb.edu.cn; 
        gary.egbert@oregonstate.edu;
        akelbert@usgs.gov;
