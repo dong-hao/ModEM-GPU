@@ -1,0 +1,1 @@
+./Mod3DMT -I NLCG  50_2x2_for_ObliqueOne.model Z_10_5_16p_100st_ObliqueOne_Noise50.data Inv_para.dat  FWD_para.dat x02_y02_z02.cov

@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="rubiks" themeId="0" version="65538" templateID="SimpleProjectTemplate">
+  <MediaItems>
+    <MediaItem id="1" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_000.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="2" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_001.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="3" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_002.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="4" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_003.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="5" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_004.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="6" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_005.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="7" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_006.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="8" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_007.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="9" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_008.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="10" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_009.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="11" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_010.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="12" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_011.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="13" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_012.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="14" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_013.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="15" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_014.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="16" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_015.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="17" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_016.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="18" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_017.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="19" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_018.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="20" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_019.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="21" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_020.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="22" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_021.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="23" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_022.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="24" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_023.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="25" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_024.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="26" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_025.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="27" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_026.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="28" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_027.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="29" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_028.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="30" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_029.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="31" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_030.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="32" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_031.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="33" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_032.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="34" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_033.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="35" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_034.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="36" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_035.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="37" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_036.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="38" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_037.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="39" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_038.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="40" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_039.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="41" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_040.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="42" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_041.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="43" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_042.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="44" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_043.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="45" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_044.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="46" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_045.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="47" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_046.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="48" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_047.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="49" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_048.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="50" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_049.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="51" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_050.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="52" filePath="C:\Users\Anya\Projects\EM\ModEM\examples\3D_MT\RUBIKS\final\Modular_NLCG_051.png" arWidth="2700" arHeight="2100" duration="0" songTitle="" songArtist="" songAlbum="" />
+  </MediaItems>
+  <Extents>
+    <ImageClip extentID="106" gapBefore="0" mediaItemID="50" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="107" gapBefore="0" mediaItemID="51" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="108" gapBefore="0" mediaItemID="52" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="57" gapBefore="0" mediaItemID="1" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="58" gapBefore="0" mediaItemID="2" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="59" gapBefore="0" mediaItemID="3" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="60" gapBefore="0" mediaItemID="4" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="61" gapBefore="0" mediaItemID="5" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="62" gapBefore="0" mediaItemID="6" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="63" gapBefore="0" mediaItemID="7" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="64" gapBefore="0" mediaItemID="8" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="65" gapBefore="0" mediaItemID="9" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="66" gapBefore="0" mediaItemID="10" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="67" gapBefore="0" mediaItemID="11" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="68" gapBefore="0" mediaItemID="12" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="69" gapBefore="0" mediaItemID="13" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="70" gapBefore="0" mediaItemID="14" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="71" gapBefore="0" mediaItemID="15" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="72" gapBefore="0" mediaItemID="16" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="73" gapBefore="0" mediaItemID="17" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="74" gapBefore="0" mediaItemID="18" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="75" gapBefore="0" mediaItemID="19" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="76" gapBefore="0" mediaItemID="20" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="77" gapBefore="0" mediaItemID="21" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="78" gapBefore="0" mediaItemID="22" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="79" gapBefore="0" mediaItemID="23" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="80" gapBefore="0" mediaItemID="24" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="81" gapBefore="0" mediaItemID="25" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="82" gapBefore="0" mediaItemID="26" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="83" gapBefore="0" mediaItemID="27" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="84" gapBefore="0" mediaItemID="28" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="85" gapBefore="0" mediaItemID="29" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="86" gapBefore="0" mediaItemID="30" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="87" gapBefore="0" mediaItemID="31" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="88" gapBefore="0" mediaItemID="32" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="89" gapBefore="0" mediaItemID="33" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="90" gapBefore="0" mediaItemID="34" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="91" gapBefore="0" mediaItemID="35" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="92" gapBefore="0" mediaItemID="36" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="93" gapBefore="0" mediaItemID="37" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="94" gapBefore="0" mediaItemID="38" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="95" gapBefore="0" mediaItemID="39" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="96" gapBefore="0" mediaItemID="40" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="97" gapBefore="0" mediaItemID="41" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="98" gapBefore="0" mediaItemID="42" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="99" gapBefore="0" mediaItemID="43" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="100" gapBefore="0" mediaItemID="44" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="101" gapBefore="0" mediaItemID="45" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="102" gapBefore="0" mediaItemID="46" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="103" gapBefore="0" mediaItemID="47" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="104" gapBefore="0" mediaItemID="48" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="105" gapBefore="0" mediaItemID="49" duration="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ExtentSelector extentID="1" gapBefore="0" primaryTrack="true">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="57" />
+        <ExtentRef id="58" />
+        <ExtentRef id="59" />
+        <ExtentRef id="60" />
+        <ExtentRef id="61" />
+        <ExtentRef id="62" />
+        <ExtentRef id="63" />
+        <ExtentRef id="64" />
+        <ExtentRef id="65" />
+        <ExtentRef id="66" />
+        <ExtentRef id="67" />
+        <ExtentRef id="68" />
+        <ExtentRef id="69" />
+        <ExtentRef id="70" />
+        <ExtentRef id="71" />
+        <ExtentRef id="72" />
+        <ExtentRef id="73" />
+        <ExtentRef id="74" />
+        <ExtentRef id="75" />
+        <ExtentRef id="76" />
+        <ExtentRef id="77" />
+        <ExtentRef id="78" />
+        <ExtentRef id="79" />
+        <ExtentRef id="80" />
+        <ExtentRef id="81" />
+        <ExtentRef id="82" />
+        <ExtentRef id="83" />
+        <ExtentRef id="84" />
+        <ExtentRef id="85" />
+        <ExtentRef id="86" />
+        <ExtentRef id="87" />
+        <ExtentRef id="88" />
+        <ExtentRef id="89" />
+        <ExtentRef id="90" />
+        <ExtentRef id="91" />
+        <ExtentRef id="92" />
+        <ExtentRef id="93" />
+        <ExtentRef id="94" />
+        <ExtentRef id="95" />
+        <ExtentRef id="96" />
+        <ExtentRef id="97" />
+        <ExtentRef id="98" />
+        <ExtentRef id="99" />
+        <ExtentRef id="100" />
+        <ExtentRef id="101" />
+        <ExtentRef id="102" />
+        <ExtentRef id="103" />
+        <ExtentRef id="104" />
+        <ExtentRef id="105" />
+        <ExtentRef id="106" />
+        <ExtentRef id="107" />
+        <ExtentRef id="108" />
+      </ExtentRefs>
+    </ExtentSelector>
+    <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+    <ExtentSelector extentID="3" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+    <ExtentSelector extentID="4" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+  </Extents>
+  <BoundPlaceholders>
+    <BoundPlaceholder placeholderID="SingleExtentView" extentID="0" />
+    <BoundPlaceholder placeholderID="Main" extentID="1" />
+    <BoundPlaceholder placeholderID="SoundTrack" extentID="2" />
+    <BoundPlaceholder placeholderID="Text" extentID="4" />
+    <BoundPlaceholder placeholderID="Narration" extentID="3" />
+  </BoundPlaceholders>
+  <BoundProperties>
+    <BoundPropertyFloatSet Name="AspectRatio">
+      <BoundPropertyFloatElement Value="1.3333332538604736" />
+    </BoundPropertyFloatSet>
+    <BoundPropertyFloat Name="SoundTrackMix" Value="0.5" />
+  </BoundProperties>
+  <ThemeOperationLog themeID="0">
+    <MonolithicThemeOperations />
+  </ThemeOperationLog>
+</Project>

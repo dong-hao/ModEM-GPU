@@ -1,0 +1,507 @@
+ The initial damping parameter lambda is  1.E+03
+ The initial line search step size (in model units) is  1.000000
+ The initial damping parameter lambda is  1.E+03
+ The initial line search step size (in model units) is  1.000000
+ The initial damping parameter lambda is  1.E+03
+ The initial line search step size (in model units) is  1.000000
+    START: f=4.283538E+06 m2=0.000000E+00 rms=  18.104927 lambda= 1.E+03 alpha=1.000000E-03
+ The initial value of alpha updated to 1.236838E-06
+  STARTLS: f=3.567267E+06 m2=1.000000E+00 rms=  16.519709 lambda= 1.E+03 alpha=1.236838E-06
+   QUADLS: f=2.212475E+06 m2=1.920682E+01 rms=  12.955117 lambda= 1.E+03 alpha=5.420516E-06
+Completed NLCG iteration     1
+     with: f=2.212475E+06 m2=1.920682E+01 rms=  12.955117 lambda= 1.E+03 alpha=6.399860E-06
+  STARTLS: f=1.949947E+06 m2=2.577084E+01 rms=  12.134389 lambda= 1.E+03 alpha=6.399860E-06
+   QUADLS: f=1.224532E+06 m2=9.534825E+01 rms=   9.295606 lambda= 1.E+03 alpha=3.751701E-05
+Completed NLCG iteration     2
+     with: f=1.224532E+06 m2=9.534825E+01 rms=   9.295606 lambda= 1.E+03 alpha=4.450008E-05
+  STARTLS: f=1.037271E+06 m2=1.567806E+02 rms=   8.208386 lambda= 1.E+03 alpha=4.450008E-05
+   QUADLS: f=1.037040E+06 m2=1.570383E+02 rms=   8.206109 lambda= 1.E+03 alpha=4.465137E-05
+Completed NLCG iteration     3
+     with: f=1.037040E+06 m2=1.570383E+02 rms=   8.206109 lambda= 1.E+03 alpha=4.515294E-05
+  STARTLS: f=9.580008E+05 m2=1.910196E+02 rms=   7.661041 lambda= 1.E+03 alpha=4.515294E-05
+   QUADLS: f=9.184951E+05 m2=2.446970E+02 rms=   7.180593 lambda= 1.E+03 alpha=1.002752E-04
+Completed NLCG iteration     4
+     with: f=9.184951E+05 m2=2.446970E+02 rms=   7.180593 lambda= 1.E+03 alpha=1.059980E-04
+  STARTLS: f=8.928502E+05 m2=2.552161E+02 rms=   6.985238 lambda= 1.E+03 alpha=1.059980E-04
+   QUADLS: f=8.841035E+05 m2=2.761743E+02 rms=   6.820590 lambda= 1.E+03 alpha=2.269610E-04
+Completed NLCG iteration     5
+     with: f=8.841035E+05 m2=2.761743E+02 rms=   6.820590 lambda= 1.E+03 alpha=2.200916E-04
+  STARTLS: f=8.650921E+05 m2=3.277005E+02 rms=   6.412699 lambda= 1.E+03 alpha=2.200916E-04
+   QUADLS: f=8.619303E+05 m2=3.089752E+02 rms=   6.504896 lambda= 1.E+03 alpha=1.630971E-04
+Completed NLCG iteration     6
+     with: f=8.619303E+05 m2=3.089752E+02 rms=   6.504896 lambda= 1.E+03 alpha=1.686626E-04
+  STARTLS: f=8.502361E+05 m2=2.846121E+02 rms=   6.578992 lambda= 1.E+03 alpha=1.686626E-04
+   QUADLS: f=8.499909E+05 m2=2.864456E+02 rms=   6.566891 lambda= 1.E+03 alpha=1.517192E-04
+Completed NLCG iteration     7
+     with: f=8.499909E+05 m2=2.864456E+02 rms=   6.566891 lambda= 1.E+03 alpha=1.544983E-04
+  STARTLS: f=8.517451E+05 m2=2.871486E+02 rms=   6.573014 lambda= 1.E+03 alpha=1.544983E-04
+   QUADLS: f=8.436299E+05 m2=2.837104E+02 rms=   6.545733 lambda= 1.E+03 alpha=7.264409E-05
+Completed NLCG iteration     8
+     with: f=8.436299E+05 m2=2.837104E+02 rms=   6.545733 lambda= 1.E+03 alpha=7.173604E-05
+  STARTLS: f=8.400843E+05 m2=2.838674E+02 rms=   6.524054 lambda= 1.E+03 alpha=7.173604E-05
+   QUADLS: f=8.391968E+05 m2=2.849904E+02 rms=   6.512252 lambda= 1.E+03 alpha=1.296762E-04
+Completed NLCG iteration     9
+     with: f=8.391968E+05 m2=2.849904E+02 rms=   6.512252 lambda= 1.E+03 alpha=1.310651E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=8.382576E+05 m2=2.769155E+02 rms=   6.554042 lambda= 1.E+03 alpha=1.310651E-04
+   QUADLS: f=8.361532E+05 m2=2.802119E+02 rms=   6.522438 lambda= 1.E+03 alpha=7.223459E-05
+Completed NLCG iteration    10
+     with: f=8.361532E+05 m2=2.802119E+02 rms=   6.522438 lambda= 1.E+03 alpha=7.960491E-05
+  STARTLS: f=8.340873E+05 m2=2.826047E+02 rms=   6.496229 lambda= 1.E+03 alpha=7.960491E-05
+   QUADLS: f=8.320745E+05 m2=2.918567E+02 rms=   6.429540 lambda= 1.E+03 alpha=2.999183E-04
+Completed NLCG iteration    11
+     with: f=8.320745E+05 m2=2.918567E+02 rms=   6.429540 lambda= 1.E+03 alpha=2.753303E-04
+  STARTLS: f=8.362444E+05 m2=3.031105E+02 rms=   6.387245 lambda= 1.E+03 alpha=2.753303E-04
+   QUADLS: f=8.295600E+05 m2=2.918620E+02 rms=   6.414527 lambda= 1.E+03 alpha=1.041795E-04
+Completed NLCG iteration    12
+     with: f=8.295600E+05 m2=2.918620E+02 rms=   6.414527 lambda= 1.E+03 alpha=1.077994E-04
+  STARTLS: f=8.269884E+05 m2=2.783863E+02 rms=   6.479242 lambda= 1.E+03 alpha=1.077994E-04
+   QUADLS: f=8.269503E+05 m2=2.764550E+02 rms=   6.490412 lambda= 1.E+03 alpha=1.240586E-04
+Completed NLCG iteration    13
+     with: f=8.269503E+05 m2=2.764550E+02 rms=   6.490412 lambda= 1.E+03 alpha=1.249706E-04
+  STARTLS: f=8.260666E+05 m2=2.739983E+02 rms=   6.499678 lambda= 1.E+03 alpha=1.249706E-04
+   QUADLS: f=8.254613E+05 m2=2.746285E+02 rms=   6.492401 lambda= 1.E+03 alpha=7.628889E-05
+Completed NLCG iteration    14
+     with: f=8.254613E+05 m2=2.746285E+02 rms=   6.492401 lambda= 1.E+03 alpha=7.696182E-05
+     Restarting NLCG with the damping parameter updated
+       to: f=5.782957E+05 m2=2.746285E+02 rms=   6.492401 lambda= 1.E+02 alpha=3.182236E-05
+  STARTLS: f=5.515548E+05 m2=3.085968E+02 rms=   6.312294 lambda= 1.E+02 alpha=3.182236E-05
+   QUADLS: f=5.168243E+05 m2=3.964819E+02 rms=   6.042752 lambda= 1.E+02 alpha=1.067550E-04
+Completed NLCG iteration    15
+     with: f=5.168243E+05 m2=3.964819E+02 rms=   6.042752 lambda= 1.E+02 alpha=1.257445E-04
+  STARTLS: f=4.908715E+05 m2=4.367630E+02 rms=   5.849840 lambda= 1.E+02 alpha=1.257445E-04
+   QUADLS: f=4.691360E+05 m2=6.292767E+02 rms=   5.575321 lambda= 1.E+02 alpha=5.569400E-04
+Completed NLCG iteration    16
+     with: f=4.691360E+05 m2=6.292767E+02 rms=   5.575321 lambda= 1.E+02 alpha=4.140436E-04
+  STARTLS: f=9.738477E+05 m2=3.579961E+03 rms=   6.864888 lambda= 1.E+02 alpha=4.140436E-04
+   QUADLS: f=4.654556E+05 m2=9.786048E+02 rms=   5.303717 lambda= 1.E+02 alpha=8.110397E-05
+Completed NLCG iteration    17
+     with: f=4.654556E+05 m2=9.786048E+02 rms=   5.303717 lambda= 1.E+02 alpha=9.468730E-06
+  STARTLS: f=4.614576E+05 m2=9.812656E+02 rms=   5.272865 lambda= 1.E+02 alpha=9.468730E-06
+   QUADLS: f=4.363665E+05 m2=1.015401E+03 rms=   5.061803 lambda= 1.E+02 alpha=1.111414E-04
+Completed NLCG iteration    18
+     with: f=4.363665E+05 m2=1.015401E+03 rms=   5.061803 lambda= 1.E+02 alpha=1.332352E-04
+  STARTLS: f=4.136254E+05 m2=9.615271E+02 rms=   4.928885 lambda= 1.E+02 alpha=1.332352E-04
+   QUADLS: f=4.017608E+05 m2=8.911403E+02 rms=   4.891279 lambda= 1.E+02 alpha=3.476315E-04
+Completed NLCG iteration    19
+     with: f=4.017608E+05 m2=8.911403E+02 rms=   4.891279 lambda= 1.E+02 alpha=3.310669E-04
+  STARTLS: f=4.046081E+05 m2=8.497774E+02 rms=   4.945605 lambda= 1.E+02 alpha=3.310669E-04
+   QUADLS: f=3.894834E+05 m2=8.617956E+02 rms=   4.817640 lambda= 1.E+02 alpha=1.571229E-04
+Completed NLCG iteration    20
+     with: f=3.894834E+05 m2=8.617956E+02 rms=   4.817640 lambda= 1.E+02 alpha=1.543557E-04
+  STARTLS: f=3.815377E+05 m2=8.880904E+02 rms=   4.732908 lambda= 1.E+02 alpha=1.543557E-04
+   QUADLS: f=3.794687E+05 m2=9.103076E+02 rms=   4.698093 lambda= 1.E+02 alpha=2.703942E-04
+Completed NLCG iteration    21
+     with: f=3.794687E+05 m2=9.103076E+02 rms=   4.698093 lambda= 1.E+02 alpha=2.808209E-04
+  STARTLS: f=3.720630E+05 m2=9.574172E+02 rms=   4.598356 lambda= 1.E+02 alpha=2.808209E-04
+   QUADLS: f=3.713271E+05 m2=9.845196E+02 rms=   4.569592 lambda= 1.E+02 alpha=4.219152E-04
+Completed NLCG iteration    22
+     with: f=3.713271E+05 m2=9.845196E+02 rms=   4.569592 lambda= 1.E+02 alpha=4.160840E-04
+  STARTLS: f=3.670440E+05 m2=1.191160E+03 rms=   4.355703 lambda= 1.E+02 alpha=4.160840E-04
+   QUADLS: f=3.639122E+05 m2=1.100204E+03 rms=   4.407779 lambda= 1.E+02 alpha=2.526878E-04
+Completed NLCG iteration    23
+     with: f=3.639122E+05 m2=1.100204E+03 rms=   4.407779 lambda= 1.E+02 alpha=2.570819E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=3.584986E+05 m2=1.087722E+03 rms=   4.371471 lambda= 1.E+02 alpha=2.570819E-04
+   QUADLS: f=3.579123E+05 m2=1.090084E+03 rms=   4.364267 lambda= 1.E+02 alpha=1.920635E-04
+Completed NLCG iteration    24
+     with: f=3.579123E+05 m2=1.090084E+03 rms=   4.364267 lambda= 1.E+02 alpha=1.903525E-04
+  STARTLS: f=3.555017E+05 m2=1.086655E+03 rms=   4.346101 lambda= 1.E+02 alpha=1.903525E-04
+   QUADLS: f=3.550864E+05 m2=1.085438E+03 rms=   4.343516 lambda= 1.E+02 alpha=3.022572E-04
+Completed NLCG iteration    25
+     with: f=3.550864E+05 m2=1.085438E+03 rms=   4.343516 lambda= 1.E+02 alpha=3.088145E-04
+  STARTLS: f=3.520138E+05 m2=1.109364E+03 rms=   4.295104 lambda= 1.E+02 alpha=3.088145E-04
+   QUADLS: f=3.519505E+05 m2=1.114437E+03 rms=   4.290018 lambda= 1.E+02 alpha=3.645450E-04
+Completed NLCG iteration    26
+     with: f=3.519505E+05 m2=1.114437E+03 rms=   4.290018 lambda= 1.E+02 alpha=3.669887E-04
+  STARTLS: f=3.448603E+05 m2=1.244878E+03 rms=   4.106522 lambda= 1.E+02 alpha=3.669887E-04
+   QUADLS: f=3.447545E+05 m2=1.280031E+03 rms=   4.072643 lambda= 1.E+02 alpha=4.483506E-04
+Completed NLCG iteration    27
+     with: f=3.447545E+05 m2=1.280031E+03 rms=   4.072643 lambda= 1.E+02 alpha=4.444565E-04
+  STARTLS: f=3.473329E+05 m2=1.510765E+03 rms=   3.875317 lambda= 1.E+02 alpha=4.444565E-04
+   QUADLS: f=3.406475E+05 m2=1.369455E+03 rms=   3.948145 lambda= 1.E+02 alpha=1.941831E-04
+Completed NLCG iteration    28
+     with: f=3.406475E+05 m2=1.369455E+03 rms=   3.948145 lambda= 1.E+02 alpha=2.065394E-04
+  STARTLS: f=3.385361E+05 m2=1.391505E+03 rms=   3.906090 lambda= 1.E+02 alpha=2.065394E-04
+   QUADLS: f=3.383630E+05 m2=1.386772E+03 rms=   3.909030 lambda= 1.E+02 alpha=1.661203E-04
+Completed NLCG iteration    29
+     with: f=3.383630E+05 m2=1.386772E+03 rms=   3.909030 lambda= 1.E+02 alpha=1.707903E-04
+  STARTLS: f=3.364789E+05 m2=1.394767E+03 rms=   3.882674 lambda= 1.E+02 alpha=1.707903E-04
+   QUADLS: f=3.364709E+05 m2=1.395522E+03 rms=   3.881852 lambda= 1.E+02 alpha=1.836191E-04
+Completed NLCG iteration    30
+     with: f=3.364709E+05 m2=1.395522E+03 rms=   3.881852 lambda= 1.E+02 alpha=1.853360E-04
+  STARTLS: f=3.349178E+05 m2=1.399923E+03 rms=   3.862155 lambda= 1.E+02 alpha=1.853360E-04
+   QUADLS: f=3.346509E+05 m2=1.403017E+03 rms=   3.856442 lambda= 1.E+02 alpha=2.831790E-04
+Completed NLCG iteration    31
+     with: f=3.346509E+05 m2=1.403017E+03 rms=   3.856442 lambda= 1.E+02 alpha=2.951516E-04
+  STARTLS: f=3.327197E+05 m2=1.394973E+03 rms=   3.845247 lambda= 1.E+02 alpha=2.951516E-04
+   QUADLS: f=3.327334E+05 m2=1.394200E+03 rms=   3.846152 lambda= 1.E+02 alpha=3.408062E-04
+Completed NLCG iteration    32
+     with: f=3.327197E+05 m2=1.394973E+03 rms=   3.845247 lambda= 1.E+02 alpha=3.380372E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=3.373153E+05 m2=1.377732E+03 rms=   3.907624 lambda= 1.E+02 alpha=3.380372E-04
+   QUADLS: f=3.321008E+05 m2=1.390018E+03 rms=   3.844019 lambda= 1.E+02 alpha=9.030777E-05
+Completed NLCG iteration    33
+     with: f=3.321008E+05 m2=1.390018E+03 rms=   3.844019 lambda= 1.E+02 alpha=8.015199E-05
+     Restarting NLCG with the damping parameter updated
+       to: f=2.069992E+05 m2=1.390018E+03 rms=   3.844019 lambda= 1.E+01 alpha=1.480401E-04
+  STARTLS: f=2.019727E+05 m2=1.460432E+03 rms=   3.786549 lambda= 1.E+01 alpha=1.480401E-04
+   QUADLS: f=2.000739E+05 m2=1.529481E+03 rms=   3.760295 lambda= 1.E+01 alpha=2.892913E-04
+Completed NLCG iteration    34
+     with: f=2.000739E+05 m2=1.529481E+03 rms=   3.760295 lambda= 1.E+01 alpha=3.065824E-04
+  STARTLS: f=1.934637E+05 m2=1.861952E+03 rms=   3.657809 lambda= 1.E+01 alpha=3.065824E-04
+   QUADLS: f=1.907782E+05 m2=1.744222E+03 rms=   3.641998 lambda= 1.E+01 alpha=2.025300E-04
+Completed NLCG iteration    35
+     with: f=1.907782E+05 m2=1.744222E+03 rms=   3.641998 lambda= 1.E+01 alpha=2.117300E-04
+  STARTLS: f=1.806414E+05 m2=2.076179E+03 rms=   3.497776 lambda= 1.E+01 alpha=2.117300E-04
+   QUADLS: f=1.805166E+05 m2=2.113820E+03 rms=   3.492289 lambda= 1.E+01 alpha=2.341035E-04
+Completed NLCG iteration    36
+     with: f=1.805166E+05 m2=2.113820E+03 rms=   3.492289 lambda= 1.E+01 alpha=2.371702E-04
+  STARTLS: f=1.747406E+05 m2=2.473611E+03 rms=   3.388033 lambda= 1.E+01 alpha=2.371702E-04
+   QUADLS: f=1.737973E+05 m2=2.364375E+03 rms=   3.389715 lambda= 1.E+01 alpha=1.686262E-04
+Completed NLCG iteration    37
+     with: f=1.737973E+05 m2=2.364375E+03 rms=   3.389715 lambda= 1.E+01 alpha=1.653914E-04
+  STARTLS: f=1.683214E+05 m2=2.538449E+03 rms=   3.307255 lambda= 1.E+01 alpha=1.653914E-04
+   QUADLS: f=1.682807E+05 m2=2.553128E+03 rms=   3.305084 lambda= 1.E+01 alpha=1.787012E-04
+Completed NLCG iteration    38
+     with: f=1.682807E+05 m2=2.553128E+03 rms=   3.305084 lambda= 1.E+01 alpha=1.808226E-04
+  STARTLS: f=1.630556E+05 m2=2.761556E+03 rms=   3.219356 lambda= 1.E+01 alpha=1.808226E-04
+   QUADLS: f=1.628916E+05 m2=2.735043E+03 rms=   3.220557 lambda= 1.E+01 alpha=1.589191E-04
+Completed NLCG iteration    39
+     with: f=1.628916E+05 m2=2.735043E+03 rms=   3.220557 lambda= 1.E+01 alpha=1.624041E-04
+  STARTLS: f=1.589786E+05 m2=2.924971E+03 rms=   3.150749 lambda= 1.E+01 alpha=1.624041E-04
+   QUADLS: f=1.589175E+05 m2=2.892158E+03 rms=   3.153990 lambda= 1.E+01 alpha=1.354306E-04
+Completed NLCG iteration    40
+     with: f=1.589175E+05 m2=2.892158E+03 rms=   3.153990 lambda= 1.E+01 alpha=1.334099E-04
+  STARTLS: f=1.555210E+05 m2=2.985309E+03 rms=   3.101042 lambda= 1.E+01 alpha=1.334099E-04
+   QUADLS: f=1.554061E+05 m2=3.001091E+03 rms=   3.097675 lambda= 1.E+01 alpha=1.552473E-04
+Completed NLCG iteration    41
+     with: f=1.554061E+05 m2=3.001091E+03 rms=   3.097675 lambda= 1.E+01 alpha=1.588982E-04
+  STARTLS: f=1.515045E+05 m2=3.115063E+03 rms=   3.034768 lambda= 1.E+01 alpha=1.588982E-04
+   QUADLS: f=1.515065E+05 m2=3.118118E+03 rms=   3.034407 lambda= 1.E+01 alpha=1.629620E-04
+Completed NLCG iteration    42
+     with: f=1.515045E+05 m2=3.115063E+03 rms=   3.034768 lambda= 1.E+01 alpha=1.644893E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=1.514997E+05 m2=3.114391E+03 rms=   3.034792 lambda= 1.E+01 alpha=1.644893E-04
+   QUADLS: f=1.502092E+05 m2=3.114461E+03 rms=   3.018469 lambda= 1.E+01 alpha=8.230555E-05
+Completed NLCG iteration    43
+     with: f=1.502092E+05 m2=3.114461E+03 rms=   3.018469 lambda= 1.E+01 alpha=6.638144E-05
+  STARTLS: f=1.494185E+05 m2=3.111406E+03 rms=   3.008818 lambda= 1.E+01 alpha=6.638144E-05
+   QUADLS: f=1.483877E+05 m2=3.103296E+03 rms=   2.996718 lambda= 1.E+01 alpha=2.668030E-04
+Completed NLCG iteration    44
+     with: f=1.483877E+05 m2=3.103296E+03 rms=   2.996718 lambda= 1.E+01 alpha=2.704634E-04
+  STARTLS: f=1.488230E+05 m2=3.100978E+03 rms=   3.002566 lambda= 1.E+01 alpha=2.704634E-04
+   QUADLS: f=1.468603E+05 m2=3.101162E+03 rms=   2.977426 lambda= 1.E+01 alpha=1.267889E-04
+Completed NLCG iteration    45
+     with: f=1.468603E+05 m2=3.101162E+03 rms=   2.977426 lambda= 1.E+01 alpha=1.276563E-04
+  STARTLS: f=1.450756E+05 m2=3.103812E+03 rms=   2.954060 lambda= 1.E+01 alpha=1.276563E-04
+   QUADLS: f=1.444324E+05 m2=3.108047E+03 rms=   2.945167 lambda= 1.E+01 alpha=2.478107E-04
+Completed NLCG iteration    46
+     with: f=1.444324E+05 m2=3.108047E+03 rms=   2.945167 lambda= 1.E+01 alpha=2.604534E-04
+  STARTLS: f=1.423216E+05 m2=3.128042E+03 rms=   2.914992 lambda= 1.E+01 alpha=2.604534E-04
+   QUADLS: f=1.421254E+05 m2=3.122037E+03 rms=   2.913205 lambda= 1.E+01 alpha=1.985368E-04
+Completed NLCG iteration    47
+     with: f=1.421254E+05 m2=3.122037E+03 rms=   2.913205 lambda= 1.E+01 alpha=1.978460E-04
+  STARTLS: f=1.396614E+05 m2=3.149576E+03 rms=   2.877001 lambda= 1.E+01 alpha=1.978460E-04
+   QUADLS: f=1.396448E+05 m2=3.151671E+03 rms=   2.876502 lambda= 1.E+01 alpha=2.099479E-04
+Completed NLCG iteration    48
+     with: f=1.396448E+05 m2=3.151671E+03 rms=   2.876502 lambda= 1.E+01 alpha=2.127635E-04
+  STARTLS: f=1.370967E+05 m2=3.227810E+03 rms=   2.832139 lambda= 1.E+01 alpha=2.127635E-04
+   QUADLS: f=1.369032E+05 m2=3.208030E+03 rms=   2.832198 lambda= 1.E+01 alpha=1.644751E-04
+Completed NLCG iteration    49
+     with: f=1.369032E+05 m2=3.208030E+03 rms=   2.832198 lambda= 1.E+01 alpha=1.633245E-04
+  STARTLS: f=1.347775E+05 m2=3.260078E+03 rms=   2.796220 lambda= 1.E+01 alpha=1.633245E-04
+   QUADLS: f=1.347258E+05 m2=3.267667E+03 rms=   2.794474 lambda= 1.E+01 alpha=1.852309E-04
+Completed NLCG iteration    50
+     with: f=1.347258E+05 m2=3.267667E+03 rms=   2.794474 lambda= 1.E+01 alpha=1.889509E-04
+  STARTLS: f=1.324980E+05 m2=3.345500E+03 rms=   2.753007 lambda= 1.E+01 alpha=1.889509E-04
+   QUADLS: f=1.324546E+05 m2=3.354540E+03 rms=   2.751147 lambda= 1.E+01 alpha=2.095991E-04
+Completed NLCG iteration    51
+     with: f=1.324546E+05 m2=3.354540E+03 rms=   2.751147 lambda= 1.E+01 alpha=2.137228E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=1.341069E+05 m2=3.391385E+03 rms=   2.768944 lambda= 1.E+01 alpha=2.137228E-04
+   QUADLS: f=1.313786E+05 m2=3.368478E+03 rms=   2.734192 lambda= 1.E+01 alpha=8.249306E-05
+Completed NLCG iteration    52
+     with: f=1.313786E+05 m2=3.368478E+03 rms=   2.734192 lambda= 1.E+01 alpha=8.304797E-05
+  STARTLS: f=1.307924E+05 m2=3.383884E+03 rms=   2.723813 lambda= 1.E+01 alpha=8.304797E-05
+   QUADLS: f=1.306895E+05 m2=3.393282E+03 rms=   2.721046 lambda= 1.E+01 alpha=1.332068E-04
+Completed NLCG iteration    53
+     with: f=1.306895E+05 m2=3.393282E+03 rms=   2.721046 lambda= 1.E+01 alpha=1.357209E-04
+  STARTLS: f=1.296295E+05 m2=3.424534E+03 rms=   2.701678 lambda= 1.E+01 alpha=1.357209E-04
+   QUADLS: f=1.291667E+05 m2=3.461667E+03 rms=   2.689839 lambda= 1.E+01 alpha=2.925659E-04
+Completed NLCG iteration    54
+     with: f=1.291667E+05 m2=3.461667E+03 rms=   2.689839 lambda= 1.E+01 alpha=3.025097E-04
+  STARTLS: f=1.283951E+05 m2=3.589082E+03 rms=   2.660581 lambda= 1.E+01 alpha=3.025097E-04
+   QUADLS: f=1.279609E+05 m2=3.538849E+03 rms=   2.661560 lambda= 1.E+01 alpha=1.865255E-04
+Completed NLCG iteration    55
+     with: f=1.279609E+05 m2=3.538849E+03 rms=   2.661560 lambda= 1.E+01 alpha=1.805769E-04
+  STARTLS: f=1.270905E+05 m2=3.629401E+03 rms=   2.635907 lambda= 1.E+01 alpha=1.805769E-04
+   QUADLS: f=1.270212E+05 m2=3.606225E+03 rms=   2.638263 lambda= 1.E+01 alpha=1.355408E-04
+Completed NLCG iteration    56
+     with: f=1.270212E+05 m2=3.606225E+03 rms=   2.638263 lambda= 1.E+01 alpha=1.314862E-04
+  STARTLS: f=1.261077E+05 m2=3.649842E+03 rms=   2.618617 lambda= 1.E+01 alpha=1.314862E-04
+   QUADLS: f=1.259267E+05 m2=3.672478E+03 rms=   2.612658 lambda= 1.E+01 alpha=1.977296E-04
+Completed NLCG iteration    57
+     with: f=1.259267E+05 m2=3.672478E+03 rms=   2.612658 lambda= 1.E+01 alpha=2.124119E-04
+  STARTLS: f=1.249232E+05 m2=3.718630E+03 rms=   2.591114 lambda= 1.E+01 alpha=2.124119E-04
+   QUADLS: f=1.248690E+05 m2=3.726780E+03 rms=   2.589110 lambda= 1.E+01 alpha=2.487220E-04
+Completed NLCG iteration    58
+     with: f=1.248690E+05 m2=3.726780E+03 rms=   2.589110 lambda= 1.E+01 alpha=2.591285E-04
+  STARTLS: f=1.239600E+05 m2=3.831620E+03 rms=   2.560020 lambda= 1.E+01 alpha=2.591285E-04
+   QUADLS: f=1.237298E+05 m2=3.795293E+03 rms=   2.562008 lambda= 1.E+01 alpha=1.730055E-04
+Completed NLCG iteration    59
+     with: f=1.237298E+05 m2=3.795293E+03 rms=   2.562008 lambda= 1.E+01 alpha=1.647144E-04
+  STARTLS: f=1.225606E+05 m2=3.891160E+03 rms=   2.530031 lambda= 1.E+01 alpha=1.647144E-04
+   QUADLS: f=1.225714E+05 m2=3.877217E+03 rms=   2.532301 lambda= 1.E+01 alpha=1.418742E-04
+Completed NLCG iteration    60
+     with: f=1.225606E+05 m2=3.891160E+03 rms=   2.530031 lambda= 1.E+01 alpha=1.395791E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=1.218457E+05 m2=3.894135E+03 rms=   2.518744 lambda= 1.E+01 alpha=1.395791E-04
+   QUADLS: f=1.216829E+05 m2=3.893139E+03 rms=   2.516422 lambda= 1.E+01 alpha=9.645842E-05
+Completed NLCG iteration    61
+     with: f=1.216829E+05 m2=3.893139E+03 rms=   2.516422 lambda= 1.E+01 alpha=9.570042E-05
+  STARTLS: f=1.209804E+05 m2=3.892841E+03 rms=   2.505763 lambda= 1.E+01 alpha=9.570042E-05
+   QUADLS: f=1.208169E+05 m2=3.892805E+03 rms=   2.503271 lambda= 1.E+01 alpha=1.527772E-04
+Completed NLCG iteration    62
+     with: f=1.208169E+05 m2=3.892805E+03 rms=   2.503271 lambda= 1.E+01 alpha=1.636688E-04
+  STARTLS: f=1.203334E+05 m2=3.894368E+03 rms=   2.495630 lambda= 1.E+01 alpha=1.636688E-04
+   QUADLS: f=1.202489E+05 m2=3.893793E+03 rms=   2.494422 lambda= 1.E+01 alpha=1.158356E-04
+Completed NLCG iteration    63
+     with: f=1.202489E+05 m2=3.893793E+03 rms=   2.494422 lambda= 1.E+01 alpha=1.140062E-04
+  STARTLS: f=1.197892E+05 m2=3.896254E+03 rms=   2.486983 lambda= 1.E+01 alpha=1.140062E-04
+   QUADLS: f=1.196677E+05 m2=3.897916E+03 rms=   2.484856 lambda= 1.E+01 alpha=1.815955E-04
+Completed NLCG iteration    64
+     with: f=1.196677E+05 m2=3.897916E+03 rms=   2.484856 lambda= 1.E+01 alpha=1.997939E-04
+  STARTLS: f=1.189907E+05 m2=3.902865E+03 rms=   2.473644 lambda= 1.E+01 alpha=1.997939E-04
+   QUADLS: f=1.189406E+05 m2=3.904509E+03 rms=   2.472615 lambda= 1.E+01 alpha=2.584401E-04
+Completed NLCG iteration    65
+     with: f=1.189406E+05 m2=3.904509E+03 rms=   2.472615 lambda= 1.E+01 alpha=2.659051E-04
+  STARTLS: f=1.176610E+05 m2=3.918736E+03 rms=   2.450515 lambda= 1.E+01 alpha=2.659051E-04
+   QUADLS: f=1.175913E+05 m2=3.921858E+03 rms=   2.448938 lambda= 1.E+01 alpha=3.124781E-04
+Completed NLCG iteration    66
+     with: f=1.175913E+05 m2=3.921858E+03 rms=   2.448938 lambda= 1.E+01 alpha=3.254134E-04
+  STARTLS: f=1.184938E+05 m2=3.976809E+03 rms=   2.454447 lambda= 1.E+01 alpha=3.254134E-04
+   QUADLS: f=1.168197E+05 m2=3.941741E+03 rms=   2.433730 lambda= 1.E+01 alpha=1.346062E-04
+Completed NLCG iteration    67
+     with: f=1.168197E+05 m2=3.941741E+03 rms=   2.433730 lambda= 1.E+01 alpha=1.173146E-04
+  STARTLS: f=1.161871E+05 m2=3.963774E+03 rms=   2.420284 lambda= 1.E+01 alpha=1.173146E-04
+   QUADLS: f=1.161663E+05 m2=3.965831E+03 rms=   2.419630 lambda= 1.E+01 alpha=1.274982E-04
+Completed NLCG iteration    68
+     with: f=1.161663E+05 m2=3.965831E+03 rms=   2.419630 lambda= 1.E+01 alpha=1.321622E-04
+  STARTLS: f=1.155885E+05 m2=3.983213E+03 rms=   2.407715 lambda= 1.E+01 alpha=1.321622E-04
+   QUADLS: f=1.155648E+05 m2=3.985693E+03 rms=   2.406944 lambda= 1.E+01 alpha=1.505189E-04
+Completed NLCG iteration    69
+     with: f=1.155648E+05 m2=3.985693E+03 rms=   2.406944 lambda= 1.E+01 alpha=1.559132E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=1.153402E+05 m2=3.999053E+03 rms=   2.401243 lambda= 1.E+01 alpha=1.559132E-04
+   QUADLS: f=1.152407E+05 m2=3.994186E+03 rms=   2.400433 lambda= 1.E+01 alpha=9.954926E-05
+Completed NLCG iteration    70
+     with: f=1.152407E+05 m2=3.994186E+03 rms=   2.400433 lambda= 1.E+01 alpha=9.858767E-05
+  STARTLS: f=1.149195E+05 m2=4.003633E+03 rms=   2.393798 lambda= 1.E+01 alpha=9.858767E-05
+   QUADLS: f=1.144565E+05 m2=4.023044E+03 rms=   2.383271 lambda= 1.E+01 alpha=2.973899E-04
+Completed NLCG iteration    71
+     with: f=1.144565E+05 m2=4.023044E+03 rms=   2.383271 lambda= 1.E+01 alpha=4.055865E-04
+  STARTLS: f=1.153844E+05 m2=4.058906E+03 rms=   2.392394 lambda= 1.E+01 alpha=4.055865E-04
+   QUADLS: f=1.141433E+05 m2=4.034910E+03 rms=   2.376328 lambda= 1.E+01 alpha=1.374540E-04
+Completed NLCG iteration    72
+     with: f=1.141433E+05 m2=4.034910E+03 rms=   2.376328 lambda= 1.E+01 alpha=1.314463E-04
+  STARTLS: f=1.137201E+05 m2=4.058965E+03 rms=   2.365619 lambda= 1.E+01 alpha=1.314463E-04
+   QUADLS: f=1.136910E+05 m2=4.065396E+03 rms=   2.364106 lambda= 1.E+01 alpha=1.657681E-04
+Completed NLCG iteration    73
+     with: f=1.136910E+05 m2=4.065396E+03 rms=   2.364106 lambda= 1.E+01 alpha=1.712944E-04
+  STARTLS: f=1.132774E+05 m2=4.109713E+03 rms=   2.350200 lambda= 1.E+01 alpha=1.712944E-04
+   QUADLS: f=1.131272E+05 m2=4.093829E+03 rms=   2.350340 lambda= 1.E+01 alpha=1.109517E-04
+Completed NLCG iteration    74
+     with: f=1.131272E+05 m2=4.093829E+03 rms=   2.350340 lambda= 1.E+01 alpha=1.075871E-04
+  STARTLS: f=1.128296E+05 m2=4.118300E+03 rms=   2.341496 lambda= 1.E+01 alpha=1.075871E-04
+   QUADLS: f=1.128175E+05 m2=4.114140E+03 rms=   2.341976 lambda= 1.E+01 alpha=8.950628E-05
+Completed NLCG iteration    75
+     with: f=1.128175E+05 m2=4.114140E+03 rms=   2.341976 lambda= 1.E+01 alpha=9.026187E-05
+  STARTLS: f=1.125464E+05 m2=4.126257E+03 rms=   2.335560 lambda= 1.E+01 alpha=9.026187E-05
+   QUADLS: f=1.124355E+05 m2=4.134418E+03 rms=   2.332404 lambda= 1.E+01 alpha=1.501500E-04
+Completed NLCG iteration    76
+     with: f=1.124355E+05 m2=4.134418E+03 rms=   2.332404 lambda= 1.E+01 alpha=1.797232E-04
+  STARTLS: f=1.122223E+05 m2=4.150845E+03 rms=   2.326204 lambda= 1.E+01 alpha=1.797232E-04
+   QUADLS: f=1.121983E+05 m2=4.146090E+03 rms=   2.326591 lambda= 1.E+01 alpha=1.283818E-04
+Completed NLCG iteration    77
+     with: f=1.121983E+05 m2=4.146090E+03 rms=   2.326591 lambda= 1.E+01 alpha=1.211836E-04
+  STARTLS: f=1.117987E+05 m2=4.165392E+03 rms=   2.316824 lambda= 1.E+01 alpha=1.211836E-04
+   QUADLS: f=1.116343E+05 m2=4.179467E+03 rms=   2.311780 lambda= 1.E+01 alpha=2.064336E-04
+Completed NLCG iteration    78
+     with: f=1.116343E+05 m2=4.179467E+03 rms=   2.311780 lambda= 1.E+01 alpha=2.440429E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=1.135120E+05 m2=4.181234E+03 rms=   2.342362 lambda= 1.E+01 alpha=2.440429E-04
+   QUADLS: f=1.112841E+05 m2=4.179840E+03 rms=   2.305914 lambda= 1.E+01 alpha=6.682988E-05
+Completed NLCG iteration    79
+     with: f=1.112841E+05 m2=4.179840E+03 rms=   2.305914 lambda= 1.E+01 alpha=7.594351E-05
+  STARTLS: f=1.112225E+05 m2=4.180930E+03 rms=   2.304711 lambda= 1.E+01 alpha=7.594351E-05
+   QUADLS: f=1.111843E+05 m2=4.182023E+03 rms=   2.303895 lambda= 1.E+01 alpha=1.511873E-04
+Completed NLCG iteration    80
+     with: f=1.111843E+05 m2=4.182023E+03 rms=   2.303895 lambda= 1.E+01 alpha=1.862540E-04
+  STARTLS: f=1.110380E+05 m2=4.184775E+03 rms=   2.301006 lambda= 1.E+01 alpha=1.862540E-04
+   QUADLS: f=1.110204E+05 m2=4.185508E+03 rms=   2.300592 lambda= 1.E+01 alpha=2.344806E-04
+Completed NLCG iteration    81
+     with: f=1.110204E+05 m2=4.185508E+03 rms=   2.300592 lambda= 1.E+01 alpha=2.540927E-04
+  STARTLS: f=1.102667E+05 m2=4.205643E+03 rms=   2.284654 lambda= 1.E+01 alpha=2.540927E-04
+   QUADLS: f=1.101471E+05 m2=4.214134E+03 rms=   2.281226 lambda= 1.E+01 alpha=3.496603E-04
+Completed NLCG iteration    82
+     with: f=1.101471E+05 m2=4.214134E+03 rms=   2.281226 lambda= 1.E+01 alpha=3.786533E-04
+  STARTLS: f=1.101767E+05 m2=4.319953E+03 rms=   2.263908 lambda= 1.E+01 alpha=3.786533E-04
+   QUADLS: f=1.093094E+05 m2=4.261462E+03 rms=   2.259130 lambda= 1.E+01 alpha=1.878376E-04
+Completed NLCG iteration    83
+     with: f=1.093094E+05 m2=4.261462E+03 rms=   2.259130 lambda= 1.E+01 alpha=1.716190E-04
+  STARTLS: f=1.084508E+05 m2=4.339694E+03 rms=   2.231166 lambda= 1.E+01 alpha=1.716190E-04
+   QUADLS: f=1.084609E+05 m2=4.338493E+03 rms=   2.231546 lambda= 1.E+01 alpha=1.692389E-04
+Completed NLCG iteration    84
+     with: f=1.084508E+05 m2=4.339694E+03 rms=   2.231166 lambda= 1.E+01 alpha=1.708975E-04
+  STARTLS: f=1.076828E+05 m2=4.367458E+03 rms=   2.213162 lambda= 1.E+01 alpha=1.708975E-04
+   QUADLS: f=1.076556E+05 m2=4.374113E+03 rms=   2.211541 lambda= 1.E+01 alpha=2.100299E-04
+Completed NLCG iteration    85
+     with: f=1.076556E+05 m2=4.374113E+03 rms=   2.211541 lambda= 1.E+01 alpha=2.120200E-04
+  STARTLS: f=1.066105E+05 m2=4.434505E+03 rms=   2.182825 lambda= 1.E+01 alpha=2.120200E-04
+   QUADLS: f=1.065975E+05 m2=4.438852E+03 rms=   2.181835 lambda= 1.E+01 alpha=2.264469E-04
+Completed NLCG iteration    86
+     with: f=1.065975E+05 m2=4.438852E+03 rms=   2.181835 lambda= 1.E+01 alpha=2.306170E-04
+  STARTLS: f=1.061916E+05 m2=4.520618E+03 rms=   2.160272 lambda= 1.E+01 alpha=2.306170E-04
+   QUADLS: f=1.059426E+05 m2=4.487546E+03 rms=   2.161719 lambda= 1.E+01 alpha=1.401121E-04
+Completed NLCG iteration    87
+     with: f=1.059426E+05 m2=4.487546E+03 rms=   2.161719 lambda= 1.E+01 alpha=1.330631E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=1.058160E+05 m2=4.489575E+03 rms=   2.159117 lambda= 1.E+01 alpha=1.330631E-04
+   QUADLS: f=1.056412E+05 m2=4.488676E+03 rms=   2.156177 lambda= 1.E+01 alpha=7.620473E-05
+Completed NLCG iteration    88
+     with: f=1.056412E+05 m2=4.488676E+03 rms=   2.156177 lambda= 1.E+01 alpha=8.120125E-05
+  STARTLS: f=1.054068E+05 m2=4.491476E+03 rms=   2.151516 lambda= 1.E+01 alpha=8.120125E-05
+   QUADLS: f=1.053379E+05 m2=4.493211E+03 rms=   2.149982 lambda= 1.E+01 alpha=1.302752E-04
+Completed NLCG iteration    89
+     with: f=1.053379E+05 m2=4.493211E+03 rms=   2.149982 lambda= 1.E+01 alpha=1.461072E-04
+  STARTLS: f=1.051221E+05 m2=4.498402E+03 rms=   2.145213 lambda= 1.E+01 alpha=1.461072E-04
+   QUADLS: f=1.051195E+05 m2=4.499416E+03 rms=   2.144986 lambda= 1.E+01 alpha=1.741170E-04
+Completed NLCG iteration    90
+     with: f=1.051195E+05 m2=4.499416E+03 rms=   2.144986 lambda= 1.E+01 alpha=1.733656E-04
+  STARTLS: f=1.049345E+05 m2=4.506830E+03 rms=   2.140358 lambda= 1.E+01 alpha=1.733656E-04
+   QUADLS: f=1.049172E+05 m2=4.507735E+03 rms=   2.139886 lambda= 1.E+01 alpha=1.939778E-04
+Completed NLCG iteration    91
+     with: f=1.049172E+05 m2=4.507735E+03 rms=   2.139886 lambda= 1.E+01 alpha=2.118387E-04
+  STARTLS: f=1.047089E+05 m2=4.517785E+03 rms=   2.134358 lambda= 1.E+01 alpha=2.118387E-04
+   QUADLS: f=1.046880E+05 m2=4.515237E+03 rms=   2.134440 lambda= 1.E+01 alpha=1.602441E-04
+Completed NLCG iteration    92
+     with: f=1.046880E+05 m2=4.515237E+03 rms=   2.134440 lambda= 1.E+01 alpha=1.596560E-04
+  STARTLS: f=1.045114E+05 m2=4.522225E+03 rms=   2.130017 lambda= 1.E+01 alpha=1.596560E-04
+   QUADLS: f=1.045032E+05 m2=4.521531E+03 rms=   2.129995 lambda= 1.E+01 alpha=1.443882E-04
+Completed NLCG iteration    93
+     with: f=1.045032E+05 m2=4.521531E+03 rms=   2.129995 lambda= 1.E+01 alpha=1.508537E-04
+  STARTLS: f=1.041598E+05 m2=4.533903E+03 rms=   2.121586 lambda= 1.E+01 alpha=1.508537E-04
+   QUADLS: f=1.041442E+05 m2=4.537464E+03 rms=   2.120662 lambda= 1.E+01 alpha=1.914486E-04
+Completed NLCG iteration    94
+     with: f=1.041442E+05 m2=4.537464E+03 rms=   2.120662 lambda= 1.E+01 alpha=1.930461E-04
+  STARTLS: f=1.040196E+05 m2=4.544682E+03 rms=   2.117111 lambda= 1.E+01 alpha=1.930461E-04
+   QUADLS: f=1.039954E+05 m2=4.542462E+03 rms=   2.117073 lambda= 1.E+01 alpha=1.364942E-04
+Completed NLCG iteration    95
+     with: f=1.039954E+05 m2=4.542462E+03 rms=   2.117073 lambda= 1.E+01 alpha=1.364309E-04
+  STARTLS: f=1.037990E+05 m2=4.545145E+03 rms=   2.113035 lambda= 1.E+01 alpha=1.364309E-04
+   QUADLS: f=1.036595E+05 m2=4.549403E+03 rms=   2.109736 lambda= 1.E+01 alpha=3.203064E-04
+Completed NLCG iteration    96
+     with: f=1.036595E+05 m2=4.549403E+03 rms=   2.109736 lambda= 1.E+01 alpha=3.708572E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=1.051402E+05 m2=4.553637E+03 rms=   2.135663 lambda= 1.E+01 alpha=3.708572E-04
+   QUADLS: f=1.035095E+05 m2=4.550336E+03 rms=   2.106844 lambda= 1.E+01 alpha=9.007508E-05
+Completed NLCG iteration    97
+     with: f=1.035095E+05 m2=4.550336E+03 rms=   2.106844 lambda= 1.E+01 alpha=8.035648E-05
+  STARTLS: f=1.033978E+05 m2=4.549766E+03 rms=   2.104918 lambda= 1.E+01 alpha=8.035648E-05
+   QUADLS: f=1.034200E+05 m2=4.549183E+03 rms=   2.105428 lambda= 1.E+01 alpha=1.692327E-04
+Completed NLCG iteration    98
+     with: f=1.033978E+05 m2=4.549766E+03 rms=   2.104918 lambda= 1.E+01 alpha=1.237830E-04
+     Restarting NLCG with the damping parameter updated
+       to: f=6.244987E+04 m2=4.549766E+03 rms=   2.104918 lambda= 1.E+00 alpha=6.271409E-04
+  STARTLS: f=6.285271E+04 m2=4.642940E+03 rms=   2.110539 lambda= 1.E+00 alpha=6.271409E-04
+   QUADLS: f=6.214681E+04 m2=4.586717E+03 rms=   2.098728 lambda= 1.E+00 alpha=2.503275E-04
+Completed NLCG iteration    99
+     with: f=6.214681E+04 m2=4.586717E+03 rms=   2.098728 lambda= 1.E+00 alpha=2.407702E-04
+  STARTLS: f=6.117217E+04 m2=4.691845E+03 rms=   2.078950 lambda= 1.E+00 alpha=2.407702E-04
+   QUADLS: f=6.082377E+04 m2=4.779650E+03 rms=   2.070906 lambda= 1.E+00 alpha=4.386812E-04
+Completed NLCG iteration   100
+     with: f=6.082377E+04 m2=4.779650E+03 rms=   2.070906 lambda= 1.E+00 alpha=4.790353E-04
+  STARTLS: f=6.495033E+04 m2=5.402089E+03 rms=   2.134666 lambda= 1.E+00 alpha=4.790353E-04
+   QUADLS: f=5.971062E+04 m2=4.974150E+03 rms=   2.046604 lambda= 1.E+00 alpha=1.547686E-04
+Completed NLCG iteration   101
+     with: f=5.971062E+04 m2=4.974150E+03 rms=   2.046604 lambda= 1.E+00 alpha=1.429333E-04
+  STARTLS: f=5.864011E+04 m2=5.222696E+03 rms=   2.021794 lambda= 1.E+00 alpha=1.429333E-04
+   QUADLS: f=5.863076E+04 m2=5.236617E+03 rms=   2.021353 lambda= 1.E+00 alpha=1.507701E-04
+Completed NLCG iteration   102
+     with: f=5.863076E+04 m2=5.236617E+03 rms=   2.021353 lambda= 1.E+00 alpha=1.531930E-04
+  STARTLS: f=5.783887E+04 m2=5.484582E+03 rms=   2.001574 lambda= 1.E+00 alpha=1.531930E-04
+   QUADLS: f=5.766336E+04 m2=5.405414E+03 rms=   1.999731 lambda= 1.E+00 alpha=1.049449E-04
+Completed NLCG iteration   103
+     with: f=5.766336E+04 m2=5.405414E+03 rms=   1.999731 lambda= 1.E+00 alpha=1.021178E-04
+  STARTLS: f=5.693410E+04 m2=5.509718E+03 rms=   1.983718 lambda= 1.E+00 alpha=1.021178E-04
+   QUADLS: f=5.675104E+04 m2=5.583552E+03 rms=   1.978757 lambda= 1.E+00 alpha=1.733564E-04
+Completed NLCG iteration   104
+     with: f=5.675104E+04 m2=5.583552E+03 rms=   1.978757 lambda= 1.E+00 alpha=1.820519E-04
+  STARTLS: f=5.621265E+04 m2=5.803021E+03 rms=   1.964048 lambda= 1.E+00 alpha=1.820519E-04
+   QUADLS: f=5.601274E+04 m2=5.726370E+03 rms=   1.961646 lambda= 1.E+00 alpha=1.192211E-04
+Completed NLCG iteration   105
+     with: f=5.601274E+04 m2=5.726370E+03 rms=   1.961646 lambda= 1.E+00 alpha=1.192626E-04
+  STARTLS: f=5.533793E+04 m2=5.863829E+03 rms=   1.945738 lambda= 1.E+00 alpha=1.192626E-04
+   QUADLS: f=5.533246E+04 m2=5.873304E+03 rms=   1.945444 lambda= 1.E+00 alpha=1.273811E-04
+Completed NLCG iteration   106
+     with: f=5.533246E+04 m2=5.873304E+03 rms=   1.945444 lambda= 1.E+00 alpha=1.291715E-04
+  STARTLS: f=5.444624E+04 m2=6.026458E+03 rms=   1.924894 lambda= 1.E+00 alpha=1.291715E-04
+   QUADLS: f=5.440919E+04 m2=6.062818E+03 rms=   1.923434 lambda= 1.E+00 alpha=1.593326E-04
+Completed NLCG iteration   107
+     with: f=5.440919E+04 m2=6.062818E+03 rms=   1.923434 lambda= 1.E+00 alpha=1.616462E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=5.467448E+04 m2=6.066886E+03 rms=   1.928624 lambda= 1.E+00 alpha=1.616462E-04
+   QUADLS: f=5.394902E+04 m2=6.064532E+03 rms=   1.914224 lambda= 1.E+00 alpha=7.120727E-05
+Completed NLCG iteration   108
+     with: f=5.394902E+04 m2=6.064532E+03 rms=   1.914224 lambda= 1.E+00 alpha=7.648657E-05
+  STARTLS: f=5.370058E+04 m2=6.067707E+03 rms=   1.909189 lambda= 1.E+00 alpha=7.648657E-05
+   QUADLS: f=5.351618E+04 m2=6.073322E+03 rms=   1.905377 lambda= 1.E+00 alpha=2.083667E-04
+Completed NLCG iteration   109
+     with: f=5.351618E+04 m2=6.073322E+03 rms=   1.905377 lambda= 1.E+00 alpha=2.197791E-04
+  STARTLS: f=5.339410E+04 m2=6.085982E+03 rms=   1.902669 lambda= 1.E+00 alpha=2.197791E-04
+   QUADLS: f=5.319976E+04 m2=6.080280E+03 rms=   1.898872 lambda= 1.E+00 alpha=1.233696E-04
+Completed NLCG iteration   110
+     with: f=5.319976E+04 m2=6.080280E+03 rms=   1.898872 lambda= 1.E+00 alpha=1.257351E-04
+  STARTLS: f=5.295181E+04 m2=6.089656E+03 rms=   1.893680 lambda= 1.E+00 alpha=1.257351E-04
+   QUADLS: f=5.294912E+04 m2=6.088865E+03 rms=   1.893641 lambda= 1.E+00 alpha=1.154182E-04
+Completed NLCG iteration   111
+     with: f=5.294912E+04 m2=6.088865E+03 rms=   1.893641 lambda= 1.E+00 alpha=1.168959E-04
+  STARTLS: f=5.266806E+04 m2=6.097906E+03 rms=   1.887771 lambda= 1.E+00 alpha=1.168959E-04
+   QUADLS: f=5.263987E+04 m2=6.101645E+03 rms=   1.887124 lambda= 1.E+00 alpha=1.637312E-04
+Completed NLCG iteration   112
+     with: f=5.263987E+04 m2=6.101645E+03 rms=   1.887124 lambda= 1.E+00 alpha=1.670684E-04
+  STARTLS: f=5.213806E+04 m2=6.120847E+03 rms=   1.876530 lambda= 1.E+00 alpha=1.670684E-04
+   QUADLS: f=5.210221E+04 m2=6.124402E+03 rms=   1.875727 lambda= 1.E+00 alpha=1.965693E-04
+Completed NLCG iteration   113
+     with: f=5.210221E+04 m2=6.124402E+03 rms=   1.875727 lambda= 1.E+00 alpha=2.079257E-04
+  STARTLS: f=5.187998E+04 m2=6.166898E+03 rms=   1.870319 lambda= 1.E+00 alpha=2.079257E-04
+   QUADLS: f=5.171866E+04 m2=6.149118E+03 rms=   1.867380 lambda= 1.E+00 alpha=1.238904E-04
+Completed NLCG iteration   114
+     with: f=5.171866E+04 m2=6.149118E+03 rms=   1.867380 lambda= 1.E+00 alpha=1.165984E-04
+  STARTLS: f=5.145996E+04 m2=6.176905E+03 rms=   1.861501 lambda= 1.E+00 alpha=1.165984E-04
+   QUADLS: f=5.143068E+04 m2=6.170816E+03 rms=   1.861024 lambda= 1.E+00 alpha=9.166968E-05
+Completed NLCG iteration   115
+     with: f=5.143068E+04 m2=6.170816E+03 rms=   1.861024 lambda= 1.E+00 alpha=9.544531E-05
+  STARTLS: f=5.123703E+04 m2=6.185145E+03 rms=   1.856744 lambda= 1.E+00 alpha=9.544531E-05
+   QUADLS: f=5.120933E+04 m2=6.189974E+03 rms=   1.856073 lambda= 1.E+00 alpha=1.271565E-04
+Completed NLCG iteration   116
+     with: f=5.120933E+04 m2=6.189974E+03 rms=   1.856073 lambda= 1.E+00 alpha=1.376690E-04
+     Restarting NLCG to restore orthogonality
+  STARTLS: f=5.115327E+04 m2=6.198981E+03 rms=   1.854731 lambda= 1.E+00 alpha=1.376690E-04
+   QUADLS: f=5.110311E+04 m2=6.195248E+03 rms=   1.853773 lambda= 1.E+00 alpha=8.080507E-05
+Completed NLCG iteration   117
+     with: f=5.110311E+04 m2=6.195248E+03 rms=   1.853773 lambda= 1.E+00 alpha=7.805183E-05
+  STARTLS: f=5.098552E+04 m2=6.202888E+03 rms=   1.851187 lambda= 1.E+00 alpha=7.805183E-05
+   QUADLS: f=5.087511E+04 m2=6.213005E+03 rms=   1.848694 lambda= 1.E+00 alpha=1.808309E-04
+Completed NLCG iteration   118
+     with: f=5.087511E+04 m2=6.213005E+03 rms=   1.848694 lambda= 1.E+00 alpha=2.397340E-04
+  STARTLS: f=5.079118E+04 m2=6.237388E+03 rms=   1.846451 lambda= 1.E+00 alpha=2.397340E-04
+   QUADLS: f=5.073460E+04 m2=6.227762E+03 rms=   1.845478 lambda= 1.E+00 alpha=1.454871E-04
+Completed NLCG iteration   119
+     with: f=5.073460E+04 m2=6.227762E+03 rms=   1.845478 lambda= 1.E+00 alpha=1.427629E-04
+  STARTLS: f=5.051379E+04 m2=6.263803E+03 rms=   1.840145 lambda= 1.E+00 alpha=1.427629E-04
+   QUADLS: f=5.050790E+04 m2=6.265393E+03 rms=   1.839989 lambda= 1.E+00 alpha=1.490097E-04
+Completed NLCG iteration   120
+     with: f=5.050790E+04 m2=6.265393E+03 rms=   1.839989 lambda= 1.E+00 alpha=1.542454E-04
+         NLCG iterations:  120    function evaluations:  241

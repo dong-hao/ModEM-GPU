@@ -1,0 +1,1 @@
+./Mod3DMT_MPI -F ObliqueOne.mod ZT_100sites_16periods.dat FWD_ObliqueOne_ZT.dat ObliqueOne.esoln FWD_para.dat

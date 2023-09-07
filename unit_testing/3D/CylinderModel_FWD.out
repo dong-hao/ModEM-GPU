@@ -1,0 +1,390 @@
+ Copyright (c) 2004-2014 Oregon State University
+ AUTHORS  Gary Egbert, Anna Kelbert & Naser Meqbel
+ College of Earth, Ocean and Atmospheric Sciences
+ 
+ Output information to files, and progress report to screen (default).
+ Running job -F with command line options:
+ CylinderModel+QuarterSpace.rho CylinderModel_6per_Template.dat CylinderModel_6per.dat CylinderModel_6per.esoln CylinderModel.fwd
+ 
+ I am a SERIAL version
+             Reading EM solver configuration from file CylinderModel.fwd
+ 
+            Number of QMR iters per divergence correction :    40
+            Maximum number of divergence correction calls :    20
+            Maximum number of divergence correction iters :   100
+            Misfit tolerance for EM forward solver        :   0.1000000E-06
+            Misfit tolerance for EM adjoint solver        :   0.1000000E-06
+            Misfit tolerance for divergence correction    :   0.1000000E-04
+             Nested E-field solution file not found and will not be used. 
+        Air layers setup complete according to the method : fixed height        
+        The top of the air layers is at         999.972 km
+ Calculating predicted data...
+            Solving the FWD problem for period    1: 3.981072E+00 secs & mode #  1
+             finished divergence correction:   16  0.8891274E-05
+                 divergence of currents before correction:   0.3888533E-06
+                 divergence of currents  after correction:   0.4337843E-09
+             finished divergence correction:   26  0.9809789E-05
+                 divergence of currents before correction:   0.6261957E-07
+                 divergence of currents  after correction:   0.3773875E-10
+             finished divergence correction:   13  0.9540215E-05
+                 divergence of currents before correction:   0.1457277E-07
+                 divergence of currents  after correction:   0.2268125E-10
+             finished divergence correction:   14  0.8068120E-05
+                 divergence of currents before correction:   0.4745157E-08
+                 divergence of currents  after correction:   0.4750606E-11
+             finished divergence correction:   64  0.7689398E-05
+                 divergence of currents before correction:   0.1038078E-08
+                 divergence of currents  after correction:   0.4811021E-12
+             finished divergence correction:   16  0.9286976E-05
+                 divergence of currents before correction:   0.3221590E-09
+                 divergence of currents  after correction:   0.2994265E-12
+             finished divergence correction:   59  0.6823312E-05
+                 divergence of currents before correction:   0.3945713E-10
+                 divergence of currents  after correction:   0.3017906E-13
+               finished solving:     256  0.9983098E-07
+                time taken (mins)     0.267969
+            Solving the FWD problem for period    1: 3.981072E+00 secs & mode #  2
+             finished divergence correction:   13  0.8786507E-05
+                 divergence of currents before correction:   0.6386939E-07
+                 divergence of currents  after correction:   0.6761890E-10
+             finished divergence correction:   18  0.7867725E-05
+                 divergence of currents before correction:   0.2513093E-08
+                 divergence of currents  after correction:   0.2852024E-11
+             finished divergence correction:   19  0.9732452E-05
+                 divergence of currents before correction:   0.3465272E-09
+                 divergence of currents  after correction:   0.2839817E-12
+             finished divergence correction:   74  0.9811032E-05
+                 divergence of currents before correction:   0.2839817E-12
+                 divergence of currents  after correction:   0.2803099E-15
+               finished solving:     121  0.9311898E-07
+                time taken (mins)     0.128581
+            Solving the FWD problem for period    2: 1.584893E+01 secs & mode #  1
+             finished divergence correction:   26  0.8893750E-05
+                 divergence of currents before correction:   0.1952165E-05
+                 divergence of currents  after correction:   0.1516197E-08
+             finished divergence correction:   64  0.8168575E-05
+                 divergence of currents before correction:   0.4612247E-06
+                 divergence of currents  after correction:   0.2472271E-09
+             finished divergence correction:   51  0.8395119E-05
+                 divergence of currents before correction:   0.1310952E-06
+                 divergence of currents  after correction:   0.5593244E-10
+             finished divergence correction:   33  0.9608446E-05
+                 divergence of currents before correction:   0.5671400E-07
+                 divergence of currents  after correction:   0.2303609E-10
+             finished divergence correction:   62  0.9075483E-05
+                 divergence of currents before correction:   0.2067694E-07
+                 divergence of currents  after correction:   0.3177888E-11
+             finished divergence correction:   63  0.8133534E-05
+                 divergence of currents before correction:   0.5161132E-08
+                 divergence of currents  after correction:   0.3727971E-11
+             finished divergence correction:   70  0.8396104E-05
+                 divergence of currents before correction:   0.9904577E-09
+                 divergence of currents  after correction:   0.4126647E-12
+             finished divergence correction:   64  0.7612777E-05
+                 divergence of currents before correction:   0.4074665E-09
+                 divergence of currents  after correction:   0.6561062E-13
+               finished solving:     311  0.9231266E-07
+                time taken (mins)     0.336198
+            Solving the FWD problem for period    2: 1.584893E+01 secs & mode #  2
+             finished divergence correction:   18  0.9288976E-05
+                 divergence of currents before correction:   0.1200768E-05
+                 divergence of currents  after correction:   0.7196925E-09
+             finished divergence correction:   17  0.7911022E-05
+                 divergence of currents before correction:   0.4512212E-07
+                 divergence of currents  after correction:   0.2045816E-10
+             finished divergence correction:   66  0.7846312E-05
+                 divergence of currents before correction:   0.4191075E-08
+                 divergence of currents  after correction:   0.8327628E-12
+             finished divergence correction:   66  0.8453839E-05
+                 divergence of currents before correction:   0.6097527E-09
+                 divergence of currents  after correction:   0.1735375E-12
+             finished divergence correction:   75  0.9946862E-05
+                 divergence of currents before correction:   0.7529269E-10
+                 divergence of currents  after correction:   0.4012587E-13
+               finished solving:     172  0.9941327E-07
+                time taken (mins)     0.183268
+            Solving the FWD problem for period    3: 6.309573E+01 secs & mode #  1
+             finished divergence correction:   22  0.9833706E-05
+                 divergence of currents before correction:   0.1163715E-04
+                 divergence of currents  after correction:   0.5680004E-08
+             finished divergence correction:   67  0.8950679E-05
+                 divergence of currents before correction:   0.1403267E-05
+                 divergence of currents  after correction:   0.2228340E-08
+             finished divergence correction:   58  0.7593327E-05
+                 divergence of currents before correction:   0.1240714E-05
+                 divergence of currents  after correction:   0.4432713E-09
+             finished divergence correction:   69  0.7969135E-05
+                 divergence of currents before correction:   0.3499841E-06
+                 divergence of currents  after correction:   0.5712982E-09
+             finished divergence correction:   59  0.7996226E-05
+                 divergence of currents before correction:   0.1340939E-06
+                 divergence of currents  after correction:   0.1451833E-09
+             finished divergence correction:   69  0.7209537E-05
+                 divergence of currents before correction:   0.5416653E-07
+                 divergence of currents  after correction:   0.3148042E-10
+             finished divergence correction:   60  0.6213604E-05
+                 divergence of currents before correction:   0.1792876E-07
+                 divergence of currents  after correction:   0.2099735E-10
+             finished divergence correction:   63  0.6271173E-05
+                 divergence of currents before correction:   0.5185910E-08
+                 divergence of currents  after correction:   0.1944558E-11
+             finished divergence correction:   63  0.6662577E-05
+                 divergence of currents before correction:   0.1894562E-08
+                 divergence of currents  after correction:   0.1771815E-11
+             finished divergence correction:   79  0.5743473E-05
+                 divergence of currents before correction:   0.4292778E-09
+                 divergence of currents  after correction:   0.1160334E-12
+               finished solving:     364  0.9454876E-07
+                time taken (mins)     0.399740
+            Solving the FWD problem for period    3: 6.309573E+01 secs & mode #  2
+             finished divergence correction:   23  0.8774165E-05
+                 divergence of currents before correction:   0.8518886E-05
+                 divergence of currents  after correction:   0.5786916E-08
+             finished divergence correction:   20  0.9740156E-05
+                 divergence of currents before correction:   0.1276443E-05
+                 divergence of currents  after correction:   0.4391584E-09
+             finished divergence correction:   21  0.6326359E-05
+                 divergence of currents before correction:   0.5148646E-07
+                 divergence of currents  after correction:   0.6089880E-10
+             finished divergence correction:   57  0.9239072E-05
+                 divergence of currents before correction:   0.7733757E-08
+                 divergence of currents  after correction:   0.1881513E-10
+             finished divergence correction:   63  0.9839870E-05
+                 divergence of currents before correction:   0.1805212E-08
+                 divergence of currents  after correction:   0.1339709E-11
+             finished divergence correction:   56  0.8927172E-05
+                 divergence of currents before correction:   0.1675523E-08
+                 divergence of currents  after correction:   0.1051453E-11
+             finished divergence correction:   76  0.7256203E-05
+                 divergence of currents before correction:   0.1864599E-09
+                 divergence of currents  after correction:   0.4127052E-13
+               finished solving:     246  0.9952388E-07
+                time taken (mins)     0.260221
+            Solving the FWD problem for period    4: 2.511886E+02 secs & mode #  1
+             finished divergence correction:   30  0.7365229E-05
+                 divergence of currents before correction:   0.7820339E-04
+                 divergence of currents  after correction:   0.7567347E-07
+             finished divergence correction:   63  0.9424762E-05
+                 divergence of currents before correction:   0.2619105E-04
+                 divergence of currents  after correction:   0.1245858E-07
+             finished divergence correction:   71  0.8727047E-05
+                 divergence of currents before correction:   0.9969284E-05
+                 divergence of currents  after correction:   0.6436791E-08
+             finished divergence correction:   69  0.9228110E-05
+                 divergence of currents before correction:   0.7437996E-05
+                 divergence of currents  after correction:   0.4839674E-08
+             finished divergence correction:   74  0.9103742E-05
+                 divergence of currents before correction:   0.1617711E-05
+                 divergence of currents  after correction:   0.1920114E-08
+             finished divergence correction:   62  0.9396602E-05
+                 divergence of currents before correction:   0.1186243E-05
+                 divergence of currents  after correction:   0.1810463E-08
+             finished divergence correction:   71  0.9663958E-05
+                 divergence of currents before correction:   0.4742288E-06
+                 divergence of currents  after correction:   0.1973295E-09
+             finished divergence correction:   67  0.9632114E-05
+                 divergence of currents before correction:   0.1921401E-06
+                 divergence of currents  after correction:   0.2648600E-09
+             finished divergence correction:   73  0.5886438E-05
+                 divergence of currents before correction:   0.2213749E-06
+                 divergence of currents  after correction:   0.8955384E-10
+             finished divergence correction:   61  0.9650329E-05
+                 divergence of currents before correction:   0.8104960E-07
+                 divergence of currents  after correction:   0.1241902E-09
+             finished divergence correction:   72  0.8852645E-05
+                 divergence of currents before correction:   0.3091993E-07
+                 divergence of currents  after correction:   0.4278408E-10
+             finished divergence correction:   61  0.8779150E-05
+                 divergence of currents before correction:   0.1731666E-07
+                 divergence of currents  after correction:   0.2070968E-10
+             finished divergence correction:   69  0.7664303E-05
+                 divergence of currents before correction:   0.1274993E-07
+                 divergence of currents  after correction:   0.1037807E-10
+             finished divergence correction:   71  0.8671731E-05
+                 divergence of currents before correction:   0.3476217E-08
+                 divergence of currents  after correction:   0.8101345E-12
+               finished solving:     559  0.9995012E-07
+                time taken (mins)     0.609115
+            Solving the FWD problem for period    4: 2.511886E+02 secs & mode #  2
+             finished divergence correction:   29  0.8261345E-05
+                 divergence of currents before correction:   0.4924620E-04
+                 divergence of currents  after correction:   0.6672337E-07
+             finished divergence correction:   24  0.7983093E-05
+                 divergence of currents before correction:   0.1367639E-04
+                 divergence of currents  after correction:   0.1978431E-07
+             finished divergence correction:   26  0.8726689E-05
+                 divergence of currents before correction:   0.2369785E-05
+                 divergence of currents  after correction:   0.5266633E-08
+             finished divergence correction:   29  0.6284281E-05
+                 divergence of currents before correction:   0.6132192E-06
+                 divergence of currents  after correction:   0.7961473E-09
+             finished divergence correction:   62  0.9652117E-05
+                 divergence of currents before correction:   0.9159452E-07
+                 divergence of currents  after correction:   0.1228671E-09
+             finished divergence correction:   60  0.8701388E-05
+                 divergence of currents before correction:   0.2343976E-07
+                 divergence of currents  after correction:   0.3933540E-10
+             finished divergence correction:   69  0.9114444E-05
+                 divergence of currents before correction:   0.7768589E-08
+                 divergence of currents  after correction:   0.1543140E-10
+             finished divergence correction:   68  0.7426147E-05
+                 divergence of currents before correction:   0.7453756E-08
+                 divergence of currents  after correction:   0.3497148E-11
+             finished divergence correction:   73  0.9315250E-05
+                 divergence of currents before correction:   0.1553437E-08
+                 divergence of currents  after correction:   0.7691350E-12
+             finished divergence correction:   72  0.7659494E-05
+                 divergence of currents before correction:   0.9690329E-10
+                 divergence of currents  after correction:   0.1512925E-12
+               finished solving:     362  0.9912743E-07
+                time taken (mins)     0.385872
+            Solving the FWD problem for period    5: 1.000000E+03 secs & mode #  1
+             finished divergence correction:   30  0.8633861E-05
+                 divergence of currents before correction:   0.2411379E-03
+                 divergence of currents  after correction:   0.5131450E-06
+             finished divergence correction:   62  0.9687670E-05
+                 divergence of currents before correction:   0.9190437E-04
+                 divergence of currents  after correction:   0.1747279E-06
+             finished divergence correction:   62  0.9286614E-05
+                 divergence of currents before correction:   0.4045784E-04
+                 divergence of currents  after correction:   0.7546086E-07
+             finished divergence correction:   70  0.8521773E-05
+                 divergence of currents before correction:   0.1970158E-04
+                 divergence of currents  after correction:   0.3072031E-07
+             finished divergence correction:   65  0.8500594E-05
+                 divergence of currents before correction:   0.9636821E-05
+                 divergence of currents  after correction:   0.1353733E-07
+             finished divergence correction:   71  0.9624463E-05
+                 divergence of currents before correction:   0.2958598E-05
+                 divergence of currents  after correction:   0.6597850E-08
+             finished divergence correction:   60  0.9242849E-05
+                 divergence of currents before correction:   0.1345521E-05
+                 divergence of currents  after correction:   0.1850730E-08
+             finished divergence correction:   72  0.7595013E-05
+                 divergence of currents before correction:   0.6236102E-06
+                 divergence of currents  after correction:   0.9706913E-09
+             finished divergence correction:   62  0.5903354E-05
+                 divergence of currents before correction:   0.3529784E-06
+                 divergence of currents  after correction:   0.6712684E-09
+             finished divergence correction:   63  0.7528689E-05
+                 divergence of currents before correction:   0.2434327E-06
+                 divergence of currents  after correction:   0.3242331E-09
+             finished divergence correction:   71  0.9939026E-05
+                 divergence of currents before correction:   0.1153936E-06
+                 divergence of currents  after correction:   0.1848169E-09
+             finished divergence correction:   64  0.9431958E-05
+                 divergence of currents before correction:   0.5294452E-07
+                 divergence of currents  after correction:   0.9278138E-10
+             finished divergence correction:   68  0.8190835E-05
+                 divergence of currents before correction:   0.2795798E-07
+                 divergence of currents  after correction:   0.2636513E-10
+             finished divergence correction:   66  0.8365903E-05
+                 divergence of currents before correction:   0.1130723E-07
+                 divergence of currents  after correction:   0.1355872E-10
+             finished divergence correction:   65  0.7257705E-05
+                 divergence of currents before correction:   0.5646370E-08
+                 divergence of currents  after correction:   0.7078989E-11
+             finished divergence correction:   27  0.9063955E-05
+                 divergence of currents before correction:   0.5180713E-09
+                 divergence of currents  after correction:   0.1396704E-11
+               finished solving:     602  0.9196626E-07
+                time taken (mins)     0.656771
+            Solving the FWD problem for period    5: 1.000000E+03 secs & mode #  2
+             finished divergence correction:   30  0.5823039E-05
+                 divergence of currents before correction:   0.2493589E-03
+                 divergence of currents  after correction:   0.2977363E-06
+             finished divergence correction:   22  0.8674535E-05
+                 divergence of currents before correction:   0.4367016E-04
+                 divergence of currents  after correction:   0.5006632E-07
+             finished divergence correction:   29  0.6492357E-05
+                 divergence of currents before correction:   0.5425802E-05
+                 divergence of currents  after correction:   0.8793536E-08
+             finished divergence correction:   60  0.7287007E-05
+                 divergence of currents before correction:   0.1047000E-05
+                 divergence of currents  after correction:   0.1741444E-08
+             finished divergence correction:   27  0.9836328E-05
+                 divergence of currents before correction:   0.2571931E-06
+                 divergence of currents  after correction:   0.4307247E-09
+             finished divergence correction:   58  0.9433972E-05
+                 divergence of currents before correction:   0.4995349E-07
+                 divergence of currents  after correction:   0.1074964E-09
+             finished divergence correction:   61  0.8318709E-05
+                 divergence of currents before correction:   0.1417786E-07
+                 divergence of currents  after correction:   0.2461482E-10
+             finished divergence correction:   36  0.6914995E-05
+                 divergence of currents before correction:   0.1498868E-08
+                 divergence of currents  after correction:   0.2805150E-11
+               finished solving:     283  0.8988163E-07
+                time taken (mins)     0.295443
+            Solving the FWD problem for period    6: 3.981072E+03 secs & mode #  1
+             finished divergence correction:   63  0.7594885E-05
+                 divergence of currents before correction:   0.1008741E-02
+                 divergence of currents  after correction:   0.2127896E-05
+             finished divergence correction:   64  0.7607889E-05
+                 divergence of currents before correction:   0.1744417E-03
+                 divergence of currents  after correction:   0.2591315E-06
+             finished divergence correction:   72  0.8140528E-05
+                 divergence of currents before correction:   0.5763177E-04
+                 divergence of currents  after correction:   0.8395472E-07
+             finished divergence correction:   63  0.8753541E-05
+                 divergence of currents before correction:   0.1734208E-04
+                 divergence of currents  after correction:   0.2476482E-07
+             finished divergence correction:   72  0.9644156E-05
+                 divergence of currents before correction:   0.9539411E-05
+                 divergence of currents  after correction:   0.1698008E-07
+             finished divergence correction:   65  0.7528538E-05
+                 divergence of currents before correction:   0.7271566E-05
+                 divergence of currents  after correction:   0.7265842E-08
+             finished divergence correction:   68  0.9942828E-05
+                 divergence of currents before correction:   0.2153527E-05
+                 divergence of currents  after correction:   0.4130144E-08
+             finished divergence correction:   72  0.7282879E-05
+                 divergence of currents before correction:   0.1221773E-05
+                 divergence of currents  after correction:   0.1929650E-08
+             finished divergence correction:   66  0.8344225E-05
+                 divergence of currents before correction:   0.4212213E-06
+                 divergence of currents  after correction:   0.7231363E-09
+             finished divergence correction:   67  0.6812199E-05
+                 divergence of currents before correction:   0.2279623E-06
+                 divergence of currents  after correction:   0.2883652E-09
+             finished divergence correction:   71  0.9692020E-05
+                 divergence of currents before correction:   0.1133726E-06
+                 divergence of currents  after correction:   0.1980752E-09
+             finished divergence correction:   66  0.8323593E-05
+                 divergence of currents before correction:   0.6630476E-07
+                 divergence of currents  after correction:   0.5619140E-10
+             finished divergence correction:   71  0.6905981E-05
+                 divergence of currents before correction:   0.1827144E-07
+                 divergence of currents  after correction:   0.3005156E-10
+             finished divergence correction:   63  0.5545626E-05
+                 divergence of currents before correction:   0.1196705E-07
+                 divergence of currents  after correction:   0.8654686E-11
+               finished solving:     546  0.9750330E-07
+                time taken (mins)     0.597852
+            Solving the FWD problem for period    6: 3.981072E+03 secs & mode #  2
+             finished divergence correction:   31  0.7649355E-05
+                 divergence of currents before correction:   0.6603461E-03
+                 divergence of currents  after correction:   0.1325611E-05
+             finished divergence correction:   30  0.8745494E-05
+                 divergence of currents before correction:   0.1250556E-03
+                 divergence of currents  after correction:   0.2015830E-06
+             finished divergence correction:   27  0.9521684E-05
+                 divergence of currents before correction:   0.3188587E-04
+                 divergence of currents  after correction:   0.4869519E-07
+             finished divergence correction:   60  0.7448823E-05
+                 divergence of currents before correction:   0.3853339E-05
+                 divergence of currents  after correction:   0.5983701E-08
+             finished divergence correction:   62  0.8561824E-05
+                 divergence of currents before correction:   0.6351794E-06
+                 divergence of currents  after correction:   0.9186105E-09
+             finished divergence correction:   70  0.9944828E-05
+                 divergence of currents before correction:   0.7820652E-07
+                 divergence of currents  after correction:   0.1052622E-09
+             finished divergence correction:   35  0.8815012E-05
+                 divergence of currents before correction:   0.8915389E-08
+                 divergence of currents  after correction:   0.1452443E-10
+               finished solving:     246  0.9717120E-07
+                time taken (mins)     0.259049
+ Saving the EM solution...
+ E-fields written to CylinderModel_6per.esoln
+ Exiting...
