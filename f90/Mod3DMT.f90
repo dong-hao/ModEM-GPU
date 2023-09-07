@@ -72,7 +72,7 @@ program Mod3DMT
     if (BC_FROM_RHS_FILE) then
         if (taskid==0) then
             call read_rhsVectorMTX(grid,bAll,cUserDef%rFile_EMrhs)
-            call pack_BC_from_file(grid,bAll,nTx_Pol)
+            call pack_BC_from_file(grid,bAll,nTx_nPol)
             call Master_job_Distribute_nTx_nPol(nTx_nPol)
         else
             call RECV_nTx_nPol
@@ -87,7 +87,7 @@ program Mod3DMT
         if (taskid==0) then
             call read_solnVectorMTX(grid,eAll,cUserDef%rFile_EMsoln)
             call getBC_solnVectorMTX(eAll,bAll)
-            call pack_BC_from_file(grid,bAll,nTx_Pol)
+            call pack_BC_from_file(grid,bAll,nTx_nPol)
             call Master_job_Distribute_nTx_nPol(nTx_nPol)
         else
             call RECV_nTx_nPol
