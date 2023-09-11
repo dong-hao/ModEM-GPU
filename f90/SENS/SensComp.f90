@@ -675,7 +675,7 @@ Contains
   end subroutine fwdPred
 
   !**********************************************************************
-  subroutine dataFunc(sigma,d,eAll)
+  subroutine dataOnly(sigma,d,eAll)
 
    !  The "data functional" version of the forward solver fwdPred. Runs dataResp
    !  for dataVectorMTX object d and for conductivity parameter sigma.
@@ -697,14 +697,14 @@ Contains
    integer              :: i,j,k,iTx,iDt,iMode
 
    if(.not.d%allocated) then
-      call errStop('data vector not allocated on input to dataFunc')
+      call errStop('data vector not allocated on input to dataOnly')
    end if
 
    if(present(eAll)) then
       if(.not. eAll%allocated) then
-         call errStop('eAll is not allocated on input to dataFunc')
+         call errStop('eAll is not allocated on input to dataOnly')
       else if(d%nTx .ne. eAll%nTx) then
-         call errStop('dimensions of eAll and d do not agree in dataFunc')
+         call errStop('dimensions of eAll and d do not agree in dataOnly')
       endif
    endif
 
@@ -737,7 +737,7 @@ Contains
 
    enddo
 
-  end subroutine dataFunc
+  end subroutine dataOnly
 
   !**********************************************************************
   subroutine dryRun(sigma,d,bAll,eAll)
