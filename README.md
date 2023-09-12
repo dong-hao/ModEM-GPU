@@ -1,6 +1,8 @@
 # ModEM-GPU
 Snapshot Repository for the Manuscript "Hybrid CPU-GPU solution to regularized divergence-free curl-curl equations for electromagnetic inversion problems" submitted to CnG
 
+Hao Dong, Kai Sun, Gary Egbert, Anna Kelbert and Naser Meqbel 
+
 This is a new experimental branch of ModEM that utilize a hybrid CPU-GPU algorithm to rapidly compute the forward and adjoint systems in EM inversion problems. Please see the manuscript for the detailed mathematical formulas and experiments that demonstrates the efficiency of the new method.
 
 ## Below is the commit log from the original ModEM SVN repo
@@ -26,12 +28,17 @@ There is still no means to automatically configure the GPU version with the f90/
 NOTE: this repo will be moved to the USGS code website, once Anna finishes setting up the license and repository there. 
 
 ## CONTACT
-For more information about this code, or if you have any queries or advices, please do not hesitate to contact me (or Gary/Anna/Naser). 
+For more information about this code, or if you have any queries or advices, please do not hesitate to contact me (or Kai/Gary/Anna/Naser). 
 
 DONG Hao, 
 China University of Geosciences, Beijing
 
-Email: donghao@cugb.edu.cn; 
+Email: donghao@cugb.edu.cn;
+
+       kais@nvidia.com;
+
        gary.egbert@oregonstate.edu;
+       
        akelbert@usgs.gov;
+       
        meqbel@modem-geophysics.com
