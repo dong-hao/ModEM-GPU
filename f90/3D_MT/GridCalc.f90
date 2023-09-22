@@ -6,7 +6,7 @@ module GridCalc
 
   use sg_vector
   use sg_scalar
-  use sg_spherical ! the only reason to use spherical modules here is to streamline
+  ! use sg_spherical ! the only reason to use spherical modules here is to streamline
   use elements     ! makefile creation both for spherical and cartesian grids
   implicit none
 
