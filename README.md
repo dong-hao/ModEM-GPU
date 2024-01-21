@@ -5,6 +5,8 @@ Hao Dong, Kai Sun, Gary Egbert, Anna Kelbert and Naser Meqbel
 
 This is a new experimental branch of ModEM that utilize a hybrid CPU-GPU algorithm to rapidly compute the forward and adjoint systems in EM inversion problems. Please see the manuscript for the detailed mathematical formulas and experiments that demonstrates the efficiency of the new method.
 
+https://doi.org/10.1016/j.cageo.2024.105518 
+
 ## Below is the commit log from the original ModEM SVN repo
 
 introducing the new GPU solvers – 
