@@ -1389,12 +1389,12 @@ module cudaFortMap
    end function kernelc_hookCtx
 
    ! kernelc_getDevNum
-   integer(c_int) function kernelc_getDevNum() & 
-    &              bind (C, name="kernelc_getDevNum" )
-     use iso_c_binding
-     implicit none
-     ! get the number of GPU devices  
-   end function kernelc_getDevNum
+   ! integer(c_int) function kernelc_getDevNum() & 
+   ! &              bind (C, name="kernelc_getDevNum" )
+   !   use iso_c_binding
+   !   implicit none
+   !   get the number of GPU devices  
+   ! end function kernelc_getDevNum
 
    ! cf_free
    subroutine cf_free(ptr)  bind (C, name="free" )
